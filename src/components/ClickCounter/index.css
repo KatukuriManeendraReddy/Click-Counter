@@ -1,0 +1,25 @@
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+}
+.heading {
+  color: #2d3a35;
+  font-family: 'Roboto';
+}
+.ele {
+  color: #c20a72;
+}
+.paragraph {
+  font-family: 'Roboto';
+}
+.buttons {
+  color: #f1f5f8;
+  background-color: #007bff;
+  border-radius: 5px;
+  font-family: 'Roboto';
+  cursor: pointer;
+  outline: none;
+}
